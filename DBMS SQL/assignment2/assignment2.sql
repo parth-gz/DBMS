@@ -1,0 +1,12 @@
+show databases;
+create database Parth;
+use Parth;
+create table customer(id int primary key, name varchar(10),age int, address varchar(20),salary int);
+show tables;
+insert into customer value(1,'Ramesh',32,'Ahmedabad',2000);
+insert into customer value(2,'Khilan',25,'Delhi',1500);
+insert into customer value(3,'Kaushik',23,'Kota',2000);
+insert into customer value(4,'Chaitali',25,'Mumbai',6500);
+insert into customer value(5,'Hardik',27,'Bhopal',8500);
+select * from customer;
+select id,name,age from customer;

@@ -1,0 +1,8 @@
+title- study and installation of MongoDB a nosql database
+
+Questions
+what is NoSQL?
+explain difference between nosql and rdbms
+what is MongoDB? Explain its features.
+Comparison b/w mongodb and mysql.
+how to install and start mongodb
